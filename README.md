@@ -113,3 +113,10 @@ Small fixes and improvements are welcome. Consider adding:
 This repository is provided as-is for educational and auditing purposes. No warranty is provided. Use responsibly.
 
 ---
+
+## Contact
+
+* LinkedIn: [https://www.linkedin.com/in/parvesh-gudivada](https://www.linkedin.com/in/parvesh-gudivada)
+* Email: [gparveshgparvesh929@gmail.com](mailto:gparveshgparvesh929@gmail.com)
+
+---
